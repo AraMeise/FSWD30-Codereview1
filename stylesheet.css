@@ -1,0 +1,103 @@
+#logoarea {
+	background-color: #f44542;
+	width:100%;
+	height: 130px;
+	margin-bottom: 0;
+}
+
+#logo {
+	width: 250px;
+	margin-top: 20px;
+}
+
+#who {
+	color: white;
+	float: right;
+	margin-right: 40%;
+	font-size: 1em;
+	margin-top: 3em;
+}
+
+#boys {
+	width: 600px;
+	height: 400px;
+	float: left;
+}
+
+#micro {
+	width: 600px;
+	height: 400px;
+}
+
+#matrix {
+	width: 600px;
+	height: 400px;
+}
+
+#kids {
+	width: 600px;
+	height: 400px;
+}
+
+#left {
+	float: left;
+	margin-right: 50px;
+}
+
+#right {
+	float: right;
+	margin-left: 50px;
+}
+
+#pics {
+	width: 1300px;
+	height: 1000px;
+}
+body {
+	width: 1300px;
+	height: 1600px;
+	margin: 0 auto;
+}
+header {
+	width: 100%;
+	height:  200px;
+}
+
+nav {
+	background-color: darkgrey;
+	margin-top: 0;
+	margin-bottom: 20px;
+	height: 67px;
+}
+
+
+ul {list-style-type: none;
+	margin: 0;
+	margin-top: 3px;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+main {
+	position: relative;
+	top: 10px;
+	bottom: 10px;
+}
+
+footer{
+	background-color: #f44542;
+	position: relative;
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	color: white;
+}
+
+footer p {
+	font-size: 2em;
+	padding-top:  1em;
+}
+
